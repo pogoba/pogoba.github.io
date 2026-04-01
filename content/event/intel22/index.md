@@ -1,7 +1,7 @@
 ---
 title: "VMSH: Hypervisor-agnostic Guest Overlays for VMs"
 
-event: Invited Talk at Intel Labs - Datacenter Security Group
+event: Invited talk at Intel Labs - Datacenter Security Group
 # event_url: https://example.org
 
 # location: Hugo Blox Builder HQ

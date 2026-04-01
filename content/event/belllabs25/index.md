@@ -1,7 +1,7 @@
 ---
-title: "VMSH: Hypervisor-agnostic Guest Overlays for VMs"
+title: "Confidential Network Function Virtualization"
 
-event: Invited talk at IBM Watson Research Center
+event: Internship presentation at Nokia Bell Labs
 # event_url: https://example.org
 
 # location: Hugo Blox Builder HQ
@@ -12,12 +12,12 @@ event: Invited talk at IBM Watson Research Center
 #   postcode: '94305'
 #   country: United States
 
-summary: Invited Talk at IBM Watson Research Center
+summary: Internship presentation at Nokia Bell Labs
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-14T13:00:00Z' # TODO
+date: '2025-10-13T14:00:00Z' # TODO
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
