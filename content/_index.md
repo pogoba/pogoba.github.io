@@ -63,6 +63,10 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
   - block: collection
     id: talks
     content:
